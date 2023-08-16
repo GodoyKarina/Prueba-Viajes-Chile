@@ -10,3 +10,7 @@ body {
 .card-img-top {
     height: 8rem;
 }
+
+.mensaje {
+    height: 12em;
+}
