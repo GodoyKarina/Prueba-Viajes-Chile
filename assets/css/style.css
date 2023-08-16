@@ -1,7 +1,7 @@
 body {
     background-color: #000;
     color: #fff;
-}
+    font-family: 'Roboto', sans-serif;}
 
 .carousel-inner {
     max-height: 54rem;
@@ -13,4 +13,11 @@ body {
 
 .mensaje {
     height: 12em;
+}
+
+footer, a {
+    color: #fff;
+    text-decoration: none;
+    padding-left: 1%;
+    padding-right: 1%;
 }
