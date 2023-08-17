@@ -21,7 +21,7 @@ Proyecto realizado como prueba final del módulo 2 del bootcamp Desarrollo Ruby 
 
 ## Technologies
 ***
-Este proyecto fue construico con las siguientes herramientas:
+Este proyecto fue construido con las siguientes herramientas:
 * [HTML5] 
 * [CSS3]
 * [Javascript]
