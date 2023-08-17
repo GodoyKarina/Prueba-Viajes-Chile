@@ -1,13 +1,9 @@
 # Viajes Chile
-Los mejores destinos para viajar por chile
+Página web de los mejores destinos para viajar por chile
 
 ## Table of Contents
-1. [General Info](#description)
+1. [Description](#description)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-
 
 ### Description
 ***
